@@ -1,0 +1,11 @@
+{
+    "android": {
+        "inReview": false, 
+        "version": "1.0.0"
+    }, 
+    "ios": {
+        "inReview": false, 
+        "version": "1.0.0"
+    }, 
+    "unRelease": false
+}
