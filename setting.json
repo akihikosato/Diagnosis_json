@@ -2,11 +2,13 @@
     "android": {
         "inReview": "false", 
         "version": "1.0.0",
+        "adv": "true",
         "url": "https://play.google.com/store?hl=ja"
     }, 
     "ios": {
         "inReview": "false", 
         "version": "1.0.0",
+        "adv": "true",
         "url": "http://www.apple.com"
     }, 
     "unRelease": "false"
